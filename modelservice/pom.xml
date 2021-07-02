@@ -41,7 +41,7 @@
         <jacoco-percentage>0.17</jacoco-percentage>
         <jacoco-branch-percentage>0.25</jacoco-branch-percentage>
         <jaxb-api.version>2.3.1</jaxb-api.version>
-        <percolator-client.version>6.7.1</percolator-client.version>
+        <percolator-client.version>6.8.15</percolator-client.version>
         <spring-data-elasticsearch.version>3.2.7.RELEASE</spring-data-elasticsearch.version>
         <haystack-client-core.version>0.3.0</haystack-client-core.version>
     </properties>
